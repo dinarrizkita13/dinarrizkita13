@@ -1,5 +1,5 @@
 # 💫 About Me:
-💡Activity : I'm a 1rd-year informatics engineering students at UNIVERSITAS SURYAKANCANA
+💡Activity : I'm a 1st-year informatics engineering students at UNIVERSITAS SURYAKANCANA
 
 
 # 💻 Tech Stack:
