@@ -17,5 +17,3 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![scaler-create-impact](https://github.com/user-attachments/assets/820a632b-df80-4b11-bcd6-358e547dbb86)
-
-![homer](https://github.com/user-attachments/assets/754404d8-3a25-4970-9eb7-507db412ff28)
